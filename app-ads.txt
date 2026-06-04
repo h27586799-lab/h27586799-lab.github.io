@@ -2889,3 +2889,7 @@ rubiconproject.com,15268,RESELLER
 added.tv,3d20ca0f,RESELLER
 freewheel.tv,1568906,RESELLER
 #kwai end
+
+#Liftoff start
+vungle.com, 6a0f32c8ff8b28c1aa3c0ab6, DIRECT, c107d686becd2d77
+#Liftoff end
