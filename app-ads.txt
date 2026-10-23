@@ -112,7 +112,7 @@ appads.in, 107139, RESELLER
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
 criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
-bigo.sg, 130, RESELLER
+.sg, 130, RESELLER
 toponad.com, 16385e313a271a, RESELLER, 1d49fe424a1a456d
 pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
 ignitemediatech.com, pub_61122, RESELLER
@@ -1198,6 +1198,7 @@ adwmg.com, 159512, RESELLER, c9688a22012618e7
 facebook.com, 2277615732660543, DIRECT, c3e20eee3f780d68
 #fb end
 
+#Bigo start
 bigo.sg,a8cxhaooxu,DIRECT
 indexexchange.com, 220189, RESELLER, 50b1c356f2c5c8fc
 video.unrulymedia.com, 839999282, RESELLER, 98c21ef9a666c68b
@@ -2037,6 +2038,7 @@ firstimpression.io, 5003, reseller
 e-planning.net, 79ded3cfca3d3b78,RESELLER, c1ba615865ed87b2
 pubmatic.com, 168244, RESELLER, 5d62403b186f2ace
 bold-win.com, 1189, RESELLER, 71746737d0bab951
+#Bigo end
 
 #ironsource start
 OWNERDOMAIN=h27586799-lab.github.io
