@@ -112,7 +112,7 @@ appads.in, 107139, RESELLER
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
 criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
-bigo.sg, 130, RESELLER
+.sg, 130, RESELLER
 toponad.com, 16385e313a271a, RESELLER, 1d49fe424a1a456d
 pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
 ignitemediatech.com, pub_61122, RESELLER
@@ -1235,7 +1235,13 @@ facebook.com, 2277615732660543, DIRECT, c3e20eee3f780d68
 #fb end
 
 #Bigo start
-bigo.sg,dqorgdqiid,DIRECT
+bigo.sg,a8cxhaooxu,DIRECT
+indexexchange.com, 220189, RESELLER, 50b1c356f2c5c8fc
+video.unrulymedia.com, 839999282, RESELLER, 98c21ef9a666c68b
+pubnative.net, 1004796, RESELLER, d641df8625486a7b
+monetrix.ai, 10688, RESELLER
+onetag.com, 970b4089dd78c5f, RESELLER
+bluexad.ai, 1993610319863222272, RESELLER
 bigo.sg, q9hk29ki8d, RESELLER
 triplelift.com, 14819, RESELLER, 6c33edb13117fd86
 triplelift.com, 14819-EB, RESELLER, 6c33edb13117fd86
@@ -1972,13 +1978,19 @@ loopme.com,15601,RESELLER,6c8d5f95897a5a3b
 indexexchange.com, 214429,RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 192505,RESELLER, 50b1c356f2c5c8fc
 lijit.com,524160-eb,RESELLER,fafdf38b16bf6b2b
+<<<<<<< HEAD
 triplelift.com, 14709, RESELLER, 6c33edb13117fd86
+=======
+>>>>>>> bfe87948d5be3d1a04ccd4e50d97d68fc602f455
 appnexus.com,12616,RESELLER,f5ab79cb980f11d1
 loopme.com,11524,RESELLER,6c8d5f95897a5a3b
 sonobi.com,97e60f3067,RESELLER,d1a215d9eb5aee9e
 pubmatic.com,166385,RESELLER,5d62403b186f2ace
 lijit.com,524160,RESELLER,fafdf38b16bf6b2b
+<<<<<<< HEAD
 rubiconproject.com, 17476, RESELLER, 0bfd66d529a55807
+=======
+>>>>>>> bfe87948d5be3d1a04ccd4e50d97d68fc602f455
 Media.net, 8CU47MDK1, RESELLER
 smartadserver.com,4024,RESELLER,060d053dcf45cbf3
 nativo.com,6089,RESELLER,59521ca7cc5e9fee
@@ -2014,6 +2026,11 @@ pubmatic.com, 168362, RESELLER, 5d62403b186f2ace
 sharethrough.com, 3160, RESELLER, d53b998a7bd4ecd2
 outbrain.com, 002084f3cc5242e7bbd2fb9a69e220a36a, RESELLER
 rubiconproject.com, 17178, RESELLER, 0bfd66d529a55807
+<<<<<<< HEAD
+=======
+triplelift.com, 14709, RESELLER, 6c33edb13117fd86
+rubiconproject.com, 17476, RESELLER, 0bfd66d529a55807
+>>>>>>> bfe87948d5be3d1a04ccd4e50d97d68fc602f455
 pubmatic.com, 168366, RESELLER, 5d62403b186f2ace
 pubmatic.com, 168367, RESELLER, 5d62403b186f2ace
 adform.com, 3428, RESELLER, 9f5210a2f0999e32
@@ -2063,16 +2080,20 @@ freewheel.tv, 548888-r-524565, RESELLER, 74e8e47458f74754
 freewheel.tv, 548888-r-523319, RESELLER, 74e8e47458f74754
 freewheel.tv, sg1332502, RESELLER, 74e8e47458f74754
 indexexchange.com, 219174, RESELLER, 50b1c356f2c5c8fc
+<<<<<<< HEAD
 indexexchange.com, 220189, RESELLER, 50b1c356f2c5c8fc
 video.unrulymedia.com, 839999282, RESELLER, 98c21ef9a666c68b
 pubnative.net, 1004796, RESELLER, d641df8625486a7b
 monetrix.ai, 10688, RESELLER
 onetag.com, 970b4089dd78c5f, RESELLER
+=======
+>>>>>>> bfe87948d5be3d1a04ccd4e50d97d68fc602f455
 bidmachine.io, 1490, RESELLER
 firstimpression.io, 5003, reseller
 e-planning.net, 79ded3cfca3d3b78,RESELLER, c1ba615865ed87b2
 pubmatic.com, 168244, RESELLER, 5d62403b186f2ace
 bold-win.com, 1189, RESELLER, 71746737d0bab951
+<<<<<<< HEAD
 bluexad.ai, 1993610319863222272, RESELLER
 serpensx.com, SRP25C70034, RESELLER
 rubiconproject.com, 26584, RESELLER, 0bfd66d529a55807
@@ -2106,6 +2127,8 @@ vdo.ai, 5995, RESELLER
 app-stock.com, 731135, RESELLER
 beapup.com, 583299, RESELLER
 clistltd.com, 431132, RESELLER
+=======
+>>>>>>> bfe87948d5be3d1a04ccd4e50d97d68fc602f455
 #Bigo end
 
 #ironsource start
